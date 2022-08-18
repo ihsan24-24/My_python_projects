@@ -158,4 +158,5 @@ while(True):  # kullanıcı çıkış yapıncaya kadar sistemin çalışması i�
         print("Number of product in basket -> ", len(basket))
         print("Total amount price of product in basket -> ", sum)
 
-
+# I'm junior a software developer. I was able to do this with my current knowledge. I will try to do better by improving myself every day.
+# Ihsan T.  17/08/2022 I started  18/08/2022 I finished... to be continued. I used Google colab IDE*/  
